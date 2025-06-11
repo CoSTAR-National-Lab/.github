@@ -3,9 +3,6 @@
 
 # CoSTAR National Lab 
 
-____
-
- 
 
 Welcome to the GitHub organisation for the CoSTAR National Lab. 
 
