@@ -1,4 +1,4 @@
-![Virtual production](profile/images/3CoSTARNationaLabsStoryFutures-LiminalStageProduction.png)
+![Virtual production](images/3CoSTARNationaLabsStoryFutures-LiminalStageProduction.png)
 
 
 # CoSTAR National Lab 
